@@ -9,4 +9,4 @@ Try to get through some of this before we begin learning about looping.
   * [7.3 Looping](http://books.flatironschool.com/books/43?page=54), page 54
   * [Containers, Blocks and Iterators](http://books.flatironschool.com/books/11?page=61)
 
-<a href='https://learn.co/lessons/looping-ruby-resources-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-ruby-resources-readme' title='More Learn to Program'>More Learn to Program</a> on Learn.co and start learning to code for free.</p>
